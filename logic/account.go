@@ -1,3 +1,4 @@
+// Package logic maintains the main business logic
 package logic
 
 import "net/http"
